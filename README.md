@@ -38,7 +38,7 @@ You can find even more examples in `test.js`
     ```javascript
         throw new Error('Not implemented'); 
     ```
-    Implement the function by any way and verify your solution by running tests until the failed test become passed (green).
+    
 8. Save the solution and run `npm test` in command line.
 9. You will see the number of passing and pending tests.
 
